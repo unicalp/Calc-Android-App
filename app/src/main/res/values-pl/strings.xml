@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">L02_Kalkulator_Ates_64504</string>
+    <string name="txtDeveloper">Twórca Osman Ates</string>
+    <string name="txtNumericalSystem">System liczbawy podstawą:</string>
+    <string name="btnCalculate">oblicz</string>
+    <string name="TxtNumericalSystem10">System liczbowy z podstawą : 10</string>
+</resources>
